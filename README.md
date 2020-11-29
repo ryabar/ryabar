@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <samp>
     Hi, I'm Romario! 👋 <br><br>
     🔥 23 Year's Old Software Enginner grinding hard to make something cool  <br>
-    ⚡ **4 years of work experience** in the software development field, building projects for the web and mobile <br>
+    ⚡ <b>4 years of work experience</b> in the software development field, building projects for the web and mobile <br>
     ✨ Favorite Tech: JavaScript, React, Typescript, Python, Golang ...  <br>
     📓 I’m currently learning ML ... 😜 <br>
     ✉️ ryabarv@gmail.com <br>
