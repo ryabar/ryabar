@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-**ryabar/ryabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ryabar/ryabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,5 +10,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
+Hi, I'm Romario! 👋
+
+🔥 23 Year's Old Software Enginner grinding hard to make something cool
+⚡ **4 years of work experience** in the software development field, building projects for the web and mobile
+✨ Favorite Tech: JavaScript, React, Typescript, Python, Golang ...
+📓 I’m currently learning ML ... 😭
+✉️ ryabarv@gmail.com
+🎨 Portfolio: https://royabar.xyz
+💼 LinkedIn: https://linkedin.com/in/ryabar
