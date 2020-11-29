@@ -12,12 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-Hi, I'm Romario! 👋
+<p align="center">
+  <samp>
+    Hi, I'm Romario! 👋 <br><br>
+    🔥 23 Year's Old Software Enginner grinding hard to make something cool  <br>
+    ⚡ **4 years of work experience** in the software development field, building projects for the web and mobile <br>
+    ✨ Favorite Tech: JavaScript, React, Typescript, Python, Golang ...  <br>
+    📓 I’m currently learning ML ... 😭 <br>
+    ✉️ ryabarv@gmail.com <br>
+    🎨 Portfolio: https://royabar.xyz <br>
+    💼 LinkedIn: https://linkedin.com/in/ryabar <br>
+  </samp>
+</p>
 
-🔥 23 Year's Old Software Enginner grinding hard to make something cool
-⚡ **4 years of work experience** in the software development field, building projects for the web and mobile
-✨ Favorite Tech: JavaScript, React, Typescript, Python, Golang ...
-📓 I’m currently learning ML ... 😭
-✉️ ryabarv@gmail.com
-🎨 Portfolio: https://royabar.xyz
-💼 LinkedIn: https://linkedin.com/in/ryabar
+
+
+
+
+
+
+
+
