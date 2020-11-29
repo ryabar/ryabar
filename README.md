@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     🔥 23 Year's Old Software Enginner grinding hard to make something cool  <br>
     ⚡ **4 years of work experience** in the software development field, building projects for the web and mobile <br>
     ✨ Favorite Tech: JavaScript, React, Typescript, Python, Golang ...  <br>
-    📓 I’m currently learning ML ... 😭 <br>
+    📓 I’m currently learning ML ... 😜 <br>
     ✉️ ryabarv@gmail.com <br>
     🎨 Portfolio: https://royabar.xyz <br>
     💼 LinkedIn: https://linkedin.com/in/ryabar <br>
