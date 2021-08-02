@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     ✨ Favorite Tech: JavaScript, React, Typescript, Python, Golang ...  <br>
     📓 I’m currently learning ML ... 😜 <br>
     ✉️ ryabarv@gmail.com <br>
-    🎨 Portfolio: https://royabar.xyz <br>
+    🎨 Portfolio: https://ryabar.com <br>
     💼 LinkedIn: https://linkedin.com/in/ryabar <br>
   </samp>
 </p>
