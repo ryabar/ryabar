@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
     Hi, I'm Romario! 👋 <br><br>
-    🔥 23 Year's Old Software Enginner grinding hard to make something cool  <br>
-    ⚡ <b>4 years of work experience</b> in the software development field, building projects for the web and mobile <br>
+    🔥 24 Year's Old Software Enginner grinding hard to make something cool  <br>
+    ⚡ <b>5 years of work experience</b> in the software development field, building projects for the web and mobile <br>
     ✨ Favorite Tech: JavaScript, React, Typescript, Golang ...  <br>
     📓 I’m currently learning BlockChain ... 😜 <br>
     ✉️ ryabarv@gmail.com <br>
